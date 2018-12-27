@@ -27,4 +27,7 @@
 ## Simple Calculators
 
 ### Love Calculator
-- Built with a simple func
+- Built with a simple func see what your love score with someone is.
+
+### BMI Calculator
+- Built with a simple func to display your BMI
