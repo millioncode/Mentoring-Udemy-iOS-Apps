@@ -23,3 +23,8 @@
 - Same concept as DiceApp.
 - Instead of having 2 UIImageViews to be generated had only 1 view to randomly generate. 
 - DRY Concept.
+
+## Simple Calculators
+
+### Love Calculator
+- Built with a simple func
