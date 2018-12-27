@@ -18,3 +18,8 @@
  - To write clean code, packaging code into functions to be used everywhere else. 
  - DRY ( Don't Repeat Yourself).
  - Design Structures.
+
+### Magic 8Ball
+- Same concept as DiceApp.
+- Instead of having 2 UIImageViews to be generated had only 1 view to randomly generate. 
+- DRY Concept.
