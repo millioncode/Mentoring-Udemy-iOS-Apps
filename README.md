@@ -24,6 +24,11 @@
 - Instead of having 2 UIImageViews to be generated had only 1 view to randomly generate. 
 - DRY Concept.
 
+### Xylophone
+- Import AVFoundation and used AVAudioPlayer to play sounds.
+- Learned to use "sender-tags" to control multiple buttons attached to array.
+- Learned the "do-catch-try" method to throw errors if the code doesn't work.
+
 ## Simple Calculators
 
 ### Love Calculator
