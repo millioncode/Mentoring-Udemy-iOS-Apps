@@ -29,7 +29,9 @@
 - Learned to use "sender-tags" to control multiple buttons attached to array.
 - Learned the "do-catch-try" method to throw errors if the code doesn't work.
 
-## Simple Calculators
+### Quiz App
+
+## Random Playground Files
 
 ### Love Calculator
 - Built with a simple func see what your love score with someone is.
