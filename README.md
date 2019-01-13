@@ -30,6 +30,9 @@
 - Learned the "do-catch-try" method to throw errors if the code doesn't work.
 
 ### Quiz App
+- Learned to incorporate Objective-C into Swift project
+- Learned MVC
+- Lerned to manage files correctly and have seperate files tied together.
 
 ## Random Playground Files
 
