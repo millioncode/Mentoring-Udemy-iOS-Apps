@@ -29,6 +29,13 @@
 - Worked with story lines to engage with users
 - Better understanding of using the sender.tag when selecting a button.
 
+
+## Random Projects For Better Practice
+
+### Auto-Layout-Practice
+- Learned and built with auto constraints to be able to work with all devices.
+- Learned that sometimes with iPhone X design you might need to add a 'SuperView' with a constraint of 0 to make the view all the way down with no gap.
+
 ## Random Playgrounds
 
 ### Love Calculator
