@@ -1,35 +1,42 @@
+
 # iOS-App-Development
 
 ## All Apps are clone built from Udemy Course that I have gone through up to this point.
 
 ### DiceApp
-![DiceApp Image](https://i.imgur.com/QidjRno.png){:style="float: right}
 - Random Dice Generator.
-- Instead of using "arch4random". Swift 4 has implemented "Int.random(in: 0...5)"
+- Instead of using "arch4random". Swift 4 has implemented "Int.random(in: 0...5$
 - Learned
- - To write clean code, packaging code into functions to be used everywhere else. 
+ - To write clean code, packaging code into functions to be used everywhere els$
  - DRY ( Don't Repeat Yourself).
  - Design Structures.
 
+![](https://i.imgur.com/QidjRno.png)
+
 ### Magic 8Ball
 - Same concept as DiceApp.
-- Instead of having 2 UIImageViews to be generated had only 1 view to randomly generate. 
+- Instead of having 2 UIImageViews to be generated had only 1 view to randomly $
 - DRY Concept.
+
+![](https://i.imgur.com/IufQRJV.png)
 
 ### Xylophone
 - Import AVFoundation and used AVAudioPlayer to play sounds.
-- Learned to use "sender-tags" to control multiple buttons attached to array.
-- Learned the "do-catch-try" method to throw errors if the code doesn't work.
+
+![](https://i.imgur.com/pXJmDWa.png)
 
 ### Quizzler
 - Learned to incorporate Objective-C into Swift project
 - Learned MVC
 - Lerned to manage files correctly and have seperate files tied together.
 
+![](https://i.imgur.com/OnImEJo.png)
+
 ### Destini
 - Worked with story lines to engage with users
 - Better understanding of using the sender.tag when selecting a button.
 
+![](https://i.imgur.com/gNSNQEy.png)
 
 ## Random Projects For Better Practice
 
