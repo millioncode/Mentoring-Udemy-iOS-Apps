@@ -3,7 +3,7 @@
 ## All Apps are clone built from Udemy Course that I have gone through up to this point.
 
 ### DiceApp
-![DiceApp Image](https://i.imgur.com/QidjRno.png)
+![DiceApp Image](https://i.imgur.com/QidjRno.png){:style="float: right}
 - Random Dice Generator.
 - Instead of using "arch4random". Swift 4 has implemented "Int.random(in: 0...5)"
 - Learned
