@@ -1,6 +1,4 @@
 
-# iOS-App-Development
-
 ## All Apps are clone built from Udemy Course that I have gone through up to this point.
 
 ### DiceApp
