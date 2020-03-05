@@ -1,6 +1,4 @@
-## More Apps Coming Soon
-
-## All Apps are clone built from Udemy Course that I have gone through up to this point.
+## You can learn how to develop iOS apps by programming these apps practically 
 
 ### DiceApp
 - Random Dice Generator.
